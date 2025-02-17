@@ -17,23 +17,23 @@ function Footer() {
          </div>
 
          <div className="flex">
-          <img src="./assets/twitter.svg" alt="Twitter" className="w-(--icon-width) h-(--icon-height) mr-2"/>
-          <img src="./assets/Linkdein.svg" alt="Linkdein" className="w-(--icon-width) h-(--icon-height) mr-2"/>
-          <img src="./assets/Gmail.svg" alt="Gmail" className="w-(--icon-width) h-(--icon-height) mr-2" />
+          <a href="#"><img src="./assets/twitter.svg" alt="Twitter" className="w-(--icon-width) h-(--icon-height) mr-2"/></a>
+          <a href="#"><img src="./assets/Linkdein.svg" alt="Linkdein" className="w-(--icon-width) h-(--icon-height) mr-2"/></a>
+          <a href="#"><img src="./assets/Gmail.svg" alt="Gmail" className="w-(--icon-width) h-(--icon-height) mr-2" /></a>
          </div>
        </div>
 
        <div className="flex justify-between mx-10">
          <div>
-           <h1>Politica de privacidad</h1>
+           <h1><a href="#">Politica de privacidad</a></h1>
          </div>
 
          <div>
-         <h1>Politica de Cookies</h1>
+         <h1><a href="#">Politica de Cookies</a></h1>
          </div>
 
          <div>
-          <h1>Aviso legal</h1>
+          <h1><a href="#">Aviso legal</a></h1>
          </div>
        </div>
          </section>
