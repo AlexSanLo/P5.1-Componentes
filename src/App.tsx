@@ -1,6 +1,7 @@
 // import { useState } from 'react'
 // import viteLogo from '/vite.svg'
 import Button from "./components/Button";
+import Card from "./components/Cards";
 //import Card from "./components/Card";
 import Inputs from "./components/Inputs";
 //import Header from "./components/Header";
@@ -12,6 +13,7 @@ function App() {
         <section className="my-10 mx-10 font-(--typography-peso-bold) text-(--typography-size-h2)">
             <div>
                 <h2 className="text-3xl">Componentes Cards</h2>
+                <Card text="Prueba" photo="./assets/Copyright.svg"/>
             </div>
         </section>
 
