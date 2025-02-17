@@ -2,7 +2,7 @@
 
 @theme {
 
-  --colores-primarios-inactivo: #d2dae8;
+  --colores-primarios-hover: #E80E46;
   --colores-primarios-marron-negrizo: #211c1c;
   --colores-primarios-rojo: #f04a37;
   --colores-secondarios-blanco: #ffffff;
@@ -16,10 +16,6 @@
 
 
   /* Numbers */
-  --icons-width: 3.375rem;
-  --icons-height: 3.4375rem;
-  --logo-height: 5.5625rem;
-  --logo-width: 5.5625rem;
   --button-width: 8.2625rem;
   --typography-interlineado-small: 1.375rem;
   --typography-interlineado-paragraph: 1.5rem;
