@@ -16,6 +16,12 @@
 
 
   /* Numbers */
+  --logo-width: 8.5rem;
+  --logo-height: 6.5rem;
+  --icon-width: 3rem;
+  --icon-height: 3rem;
+  --copy-width: 1.5rem;
+  --copy-height: 1.5rem;
   --button-width: 8.2625rem;
   --typography-interlineado-small: 1.375rem;
   --typography-interlineado-paragraph: 1.5rem;

@@ -7,11 +7,11 @@ function Header() {
        <section className="bg-(--colores-primarios-marron-negrizo) py-4">
         <div className="flex justify-between items-center h-full mx-10">
           <div>
-            <img src="./assets/WebCreativos.png" alt="Logo" className="w-34 h-26" />
+            <img src="./assets/WebCreativos.png" alt="Logo" className="w-(--logo-width) h-(--logo-height)" />
           </div>
 
           <div>
-            <ul className="flex gap-14 text-(--typography-colores-rojo)">
+            <ul className="flex gap-14 text-(--typography-colores-rojo) text-(length:--typography-size-h4)">
               <li>
                 <a href="Home">Home</a>
               </li>

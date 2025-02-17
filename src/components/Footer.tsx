@@ -1,14 +1,14 @@
 function Footer() {
     return (
       <>
-      <section className="bg-(--colores-primarios-marron-negrizo) text-(--typography-colores-blanco) py-4 text-xl">
+      <section className="bg-(--colores-primarios-marron-negrizo) text-(--typography-colores-blanco) py-4 text-(length:--typography-size-h4)">
        <div className="flex justify-between mx-10 font-(--typography-size-h2)">
          <div>
-           <img src="./assets/WebCreativos.png" alt="Logo" className="w-34 h-26" />
+           <img src="./assets/WebCreativos.png" alt="Logo" className="w-(--logo-width) h-(--logo-height)" />
          </div>
 
          <div className="flex">
-         <img src="./assets/Copyright.svg" alt="Copytight" className="w-6 h-6 mr-2" /> 
+         <img src="./assets/Copyright.svg" alt="Copytight" className="w-(--copy-width) h-(--copy-height) mr-2" /> 
          <h1>Alejandro y Hugo</h1>
          </div>
 
@@ -17,9 +17,9 @@ function Footer() {
          </div>
 
          <div className="flex">
-          <img src="./assets/twitter.svg" alt="Twitter" className="w-12 h-12 mr-2"/>
-          <img src="./assets/Linkdein.svg" alt="Linkdein" className="w-12 h-12 mr-2"/>
-          <img src="./assets/Gmail.svg" alt="Gmail" className="w-12 h-12 mr-2" />
+          <img src="./assets/twitter.svg" alt="Twitter" className="w-(--icon-width) h-(--icon-height) mr-2"/>
+          <img src="./assets/Linkdein.svg" alt="Linkdein" className="w-(--icon-width) h-(--icon-height) mr-2"/>
+          <img src="./assets/Gmail.svg" alt="Gmail" className="w-(--icon-width) h-(--icon-height) mr-2" />
          </div>
        </div>
 
