@@ -12,9 +12,33 @@ Se trata de un proyecto en el cual vamos a hacer al menos 5 componentes en **rea
 En figma podemos encontrar los siguientes apartados
 
 - **Paleta de colores**
-  ![Diseño de Fuentes en Figma](./ImgsReadme/Paleta_Colores.png)
-  Hemos obtado por una paleta de rojos combinado con algunos colores negrizos
+![Paleta de colores en Figma](./ImgsReadme/Paleta_Colores.png)
+![Colores en la Tipografía en Figma](./ImgsReadme/TypoColor.png)
+
+  -- Los colores en variables de tailwindcss quedaría
+  ![Colores en Tailwindcss](./ImgsReadme/Colores.png)
   
+  Hemos obtado por una paleta de rojos combinado con algunos colores negrizos
+
+
+- **Font family**
+  - **Lato**: Se tratará de la fuente que se usará en la mayor parte de la página web
+  - **Arsenal SC**: Una segunda fuente vistosa para por ejemplo encabezados
+ 
+- **Tamaños de fuente**
+![Tamaños de fuente en Figma](./ImgsReadme/Tamaños_de_fuente.png)
+
+  -- Estas variables exportadas a tailwindcss quedarían
+  ![Typografía en Tailwindcss](./ImgsReadme/Tamaños.png)
+
+- **Peso en la fuente**
+  -- **Bold**
+  -- **Regular**
+  -- **Semi Bold**
+  -- **Extra light**
+
+  -- En tailwindcss quedaría
+  ![Typografía pesos en Tailwindcss](./ImgsReadme/Font-weight-family.png)
 
 
 ### 2. Enlaces
