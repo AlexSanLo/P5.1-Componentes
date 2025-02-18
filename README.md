@@ -12,7 +12,8 @@ Se trata de un proyecto en el cual vamos a hacer al menos 5 componentes en **rea
 En figma podemos encontrar los siguientes apartados
 
 - **Paleta de colores**
-  ![Diseño de Fuentes en Figma](./Imgs/Paleta_Colores)
+  ![Diseño de Fuentes en Figma](./Imgs/Paleta_Colores.png)
+  Hemos obtado por una paleta de rojos combinado con algunos colores negrizos
   
 
 
