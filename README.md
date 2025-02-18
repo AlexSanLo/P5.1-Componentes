@@ -45,7 +45,57 @@ En figma podemos encontrar los siguientes apartados
   
   ![Typografía pesos en Tailwindcss](./ImgsReadme/Font-weight-family.png)
 
+- **Componentes (Al menos 5)**
+  - **Botón de Login**
+ 
+  ![Typografía pesos en Tailwindcss](./ImgsReadme/Boton.png)
 
-### 2. Enlaces
+
+  - **Card**
+
+  ![Typografía pesos en Tailwindcss](./ImgsReadme/Card.png)
+
+  
+  - **Input**
+ 
+  ![Typografía pesos en Tailwindcss](./ImgsReadme/Input.png)
+
+
+  - **Header**
+ 
+  ![Typografía pesos en Tailwindcss](./ImgsReadme/Header.png)
+
+
+  - **Footer**
+
+  ![Typografía pesos en Tailwindcss](./ImgsReadme/Footer.png)
+
+### 3. Diseño en React
+ - **Botón de Login**
+ 
+  ![Typografía pesos en Tailwindcss](./ImgsReadme/BotonReact.png)
+
+
+  - **Card**
+
+  ![Typografía pesos en Tailwindcss](./ImgsReadme/CardReact.png)
+
+  
+  - **Input**
+ 
+  ![Typografía pesos en Tailwindcss](./ImgsReadme/InputReact.png)
+
+
+  - **Header**
+ 
+  ![Typografía pesos en Tailwindcss](./ImgsReadme/HeaderReatc.png)
+
+
+  - **Footer**
+
+  ![Typografía pesos en Tailwindcss](./ImgsReadme/FooterReact.png)
+
+
+### 4. Enlaces
 [Enlace a Figma](https://www.figma.com/design/Ogur1ugUm2QcReImxpfBqN/Untitled?node-id=5-193&t=235uqHd9IAk0tsSj-1)
 
