@@ -16,7 +16,7 @@ En figma podemos encontrar los siguientes apartados
 ![Paleta de colores en Figma](./ImgsReadme/Paleta_Colores.png)
 ![Colores en la Tipografía en Figma](./ImgsReadme/TypoColor.png)
 
-  -- Los colores en variables de tailwindcss quedaría
+  - Los colores en variables de tailwindcss quedaría
   
   ![Colores en Tailwindcss](./ImgsReadme/Colores.png)
   
@@ -31,17 +31,17 @@ En figma podemos encontrar los siguientes apartados
   
 ![Tamaños de fuente en Figma](./ImgsReadme/Tamaños_de_fuente.png)
 
-  -- Estas variables exportadas a tailwindcss quedarían
+  - Estas variables exportadas a tailwindcss quedarían
   
   ![Typografía en Tailwindcss](./ImgsReadme/Tamaños.png)
 
 - **Peso en la fuente**
-  -- **Bold**
-  -- **Regular**
-  -- **Semi Bold**
-  -- **Extra light**
+  - **Bold**
+  - **Regular**
+  - **Semi Bold**
+  - **Extra light**
 
-  -- En tailwindcss quedaría
+  - En tailwindcss quedaría
   
   ![Typografía pesos en Tailwindcss](./ImgsReadme/Font-weight-family.png)
 
